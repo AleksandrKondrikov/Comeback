@@ -32,11 +32,8 @@
 ![Привет, это игорь](sticker.webp)
 
 
-
-
-
-
-
 ## Branch
 
 *git branch* - покажет доступные ветки
+
+*git branch (name) - создаст ветку
